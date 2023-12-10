@@ -1,4 +1,4 @@
-### Hi there, it's Medialab_ LPWAN! 👋
+### Hi there, it's MediaLab_ LPWAN! 👋
 
 - 🔭 We're currently working on IoT projects using LoRa and WiFi at [`MediaLab_`](https://www.medialab-uniovi.es/)
 - 🌱 We're currently learning C, Arduino, Docker, Node-RED, Git, VSCode
