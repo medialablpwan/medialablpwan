@@ -3,7 +3,7 @@
 - 🔭 We're currently working on IoT projects using LoRa and WiFi at [`MediaLab_`](https://www.medialab-uniovi.es/)
 - 🌱 We're currently learning C, Arduino, Docker, Node-RED, Git, VSCode
 - 👯 We're looking to collaborate on IoT device prototyping
-- 🤔 We're looking for help with coding
+- 🤔 We're looking for help with coding and electronic designing
 - 💬 Ask me about electronics, 3D printing and more!
 - 📫 How to reach me: [`medialablpwan@gmail.com`](medialablpwan@gmail.com)
 - 😄 Pronouns: We/Us (we are a inclusive workgroup!)
