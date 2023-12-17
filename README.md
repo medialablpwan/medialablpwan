@@ -4,8 +4,8 @@
 - 🌱 We're currently learning C, Arduino, Docker OS, Node-RED, Git, VSCode and more!
 - 👯 We're looking to collaborate on IoT device prototyping
 - 🤔 We're looking for help with coding and electronic designing
-- 💬 Ask me about electronics, sensors, drones, domotics, 3D printing and more!
-- 📫 How to reach me: [`medialablpwan@gmail.com`](medialablpwan@gmail.com)
+- 💬 Ask us about electronics, sensors, drones, domotics, 3D printing and more!
+- 📫 How to reach us: [`medialablpwan@gmail.com`](medialablpwan@gmail.com)
 - 😄 Pronouns: We/Us (we are a inclusive workgroup!)
 - ⚡ Fun fact: The mobile phone inventor, Martin Cooper, was personally happy to see the idea of the Cooper Sensor (more on that on its repo!)
 
